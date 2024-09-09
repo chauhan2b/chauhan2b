@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cloud Authenticator](github.com/chauhan2b/cloud_authenticator)
 
-- 🌱 I’m currently learning **Flutter, React, NEXT.js, React Native**
+- 🌱 I’m currently learning **Flutter and a bit of React**
 
 - 👨‍💻 All of my projects are available at [chauhan2b](https://github.com/chauhan2b)
 
