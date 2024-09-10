@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Chauhan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Cloud Authenticator](github.com/chauhan2b/cloud_authenticator)
+- 🔭 I’m currently working on [Cloud Authenticator](https://github.com/chauhan2b/cloud_authenticator) and [News App](https://github.com/chauhan2b/news_app)
 
 - 🌱 I’m currently learning **Flutter and a bit of React**
 
